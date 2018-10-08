@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App]
 
-##Hospital Management
+## Hospital Management
 
 Simple Application made with React in frontend and Json Server for handling the data in backend .Used Faker Module to build the fake data for the patient. 
 
